@@ -9,11 +9,7 @@ Uma aplicação simples de lista de tarefas que permite aos usuários se cadastr
 ## Funcionalidades
 
 - Cadastro Simples: Insira apenas o nome para acessar a aplicação.
-- ![Tela de Cadastro](Imagens/teladecadastro.png)
-
 - Adicionar Tarefas: Permite adicionar novas tarefas através de um campo de entrada.
-- ![ToDoList ](Imagens/todolist.png)
-- 
 - Marcar como Concluída: Tarefas podem ser marcadas como concluídas com um clique.
 - Remover Tarefas: Tarefas podem ser removidas da lista de maneira simples.
 - Interface Amigável: O design é minimalista, focado na usabilidade.
